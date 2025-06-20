@@ -2,24 +2,24 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## プロジェクト概要
+## Project Overview
 
-このプロジェクトは新規作成されたばかりの空のプロジェクトです。現在、ファイルやディレクトリは存在していません。
+This project is a newly created empty project. Currently, no files or directories exist.
 
-## 開発開始時の注意事項
+## Development Setup Notes
 
-このプロジェクトで開発を始める際は、まず以下を決定してください：
+When starting development in this project, please first decide on the following:
 
-1. **プログラミング言語とフレームワーク**
-   - 使用する言語（JavaScript/TypeScript、Python、Rust など）
-   - 使用するフレームワーク（React、Vue、Django、FastAPI など）
+1. **Programming Language and Framework**
+   - Language to use (JavaScript/TypeScript, Python, Rust, etc.)
+   - Framework to use (React, Vue, Django, FastAPI, etc.)
 
-2. **プロジェクトの初期化**
-   - 選択した言語に応じて適切な初期化コマンドを実行
-   - 必要な設定ファイルの作成
+2. **Project Initialization**
+   - Execute appropriate initialization commands according to the chosen language
+   - Create necessary configuration files
 
-3. **バージョン管理**
-   - `git init` でリポジトリを初期化
-   - `.gitignore` ファイルの作成
+3. **Version Control**
+   - Initialize repository with `git init`
+   - Create `.gitignore` file
 
-プロジェクトの内容が決まり、ファイルが追加されたら、このCLAUDE.mdファイルを更新してください。
+Once the project content is decided and files are added, please update this CLAUDE.md file.
